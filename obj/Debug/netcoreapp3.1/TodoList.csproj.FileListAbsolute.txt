@@ -1,0 +1,15 @@
+C:\CodingEnCasa\TodoList\bin\Debug\netcoreapp3.1\TodoList.exe
+C:\CodingEnCasa\TodoList\bin\Debug\netcoreapp3.1\TodoList.deps.json
+C:\CodingEnCasa\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.json
+C:\CodingEnCasa\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.dev.json
+C:\CodingEnCasa\TodoList\bin\Debug\netcoreapp3.1\TodoList.dll
+C:\CodingEnCasa\TodoList\bin\Debug\netcoreapp3.1\TodoList.pdb
+C:\CodingEnCasa\TodoList\obj\Debug\netcoreapp3.1\TodoList.csprojAssemblyReference.cache
+C:\CodingEnCasa\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfoInputs.cache
+C:\CodingEnCasa\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfo.cs
+C:\CodingEnCasa\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CoreCompileInputs.cache
+C:\CodingEnCasa\TodoList\obj\Debug\netcoreapp3.1\TodoList.dll
+C:\CodingEnCasa\TodoList\obj\Debug\netcoreapp3.1\TodoList.pdb
+C:\CodingEnCasa\TodoList\obj\Debug\netcoreapp3.1\TodoList.genruntimeconfig.cache
+C:\CodingEnCasa\TodoList\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\CodingEnCasa\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CopyComplete

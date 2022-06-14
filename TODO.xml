@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TODO>
+  <Tarea>
+    <Id>2</Id>
+    <Titulo>Tarea para formato</Titulo>
+    <Hora>5</Hora>
+    <Descripcion>Proebando formato de tarea</Descripcion>
+  </Tarea>
+</TODO>
