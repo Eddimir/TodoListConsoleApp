@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 using System.Xml.Linq;
 public class TaskService 
 {
-    private readonly string EmailHost = "VelozPrueba@gmail.com", PasswordHost = "PuertoPlata37";
+    private readonly string EmailHost = "", PasswordHost = "";
     public enum Accion {Nuevo, Editar, Eliminar}
 
     private Repository _repository;
